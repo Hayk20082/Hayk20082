@@ -2,7 +2,7 @@
 # Hi, I'm Hayk 👋
 
 ## Who am I?
-Software developer focused on C/C++,ML/DL and Linux.
+Software developer focused on C/C++, ML/DL and Linux.
 
 ## What am I working on?
 - C / C++ projects  
