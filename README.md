@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Hayk20082/Hayk20082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hayk 👋
 
-Here are some ideas to get you started:
+## Who am I?
+Software developer focused on C/C++,ML/DL and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I working on?
+- C / C++ projects  
+- AI & Deep Learning projects  
+- Computer Vision
+
+## Tools I use
+C, C++, Python, Linux (Arch), Git, PyTorch, OpenCV
+
+## How to reach me
+- GitHub: https://github.com/Hayk20082
+- LinkedIn: www.linkedin.com/in/hayk-khachatryan123
+
+
+
