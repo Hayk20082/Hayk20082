@@ -1,0 +1,16 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Hayk20082
+          outputs: |
+            dist/github-contribution-grid-snake.svg
