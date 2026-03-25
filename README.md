@@ -4,14 +4,13 @@
 
 # Hi 👋, I'm Hayk
 
-### Software Engineer C/C++, ML/DL 
+### Software Engineer C/C++, 
 
 
-- 💬 Ask me about **“Software developer focused on C/C++, Python, and computer vision. Working with Linux (Arch). Building practical AI projects and tools.”**
+- 💬 Ask me about **“Software developer focused on C/C++. Working with Linux (Arch).”**
 
 - 📫 How to reach me **haykk0215@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Zr5B-5SuWJntrbFbBfj1Syy9Mxxfhy4b/view?usp=sharing](https://drive.google.com/file/d/1Zr5B-5SuWJntrbFbBfj1Syy9Mxxfhy4b/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
